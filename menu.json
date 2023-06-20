@@ -7,7 +7,7 @@
             "onion"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion.gltf"
     },
     {
         "id": 2,
@@ -17,7 +17,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_sausage.gltf"
     },
     {
         "id": 3,
@@ -27,7 +27,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_mushroom.gltf"
     },
     {
         "id": 4,
@@ -37,7 +37,7 @@
             ""
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin.gltf"
     },
     {
         "id": 5,
@@ -48,7 +48,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_sausage.gltf"
     },
     {
         "id": 6,
@@ -59,7 +59,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_mushroom.gltf"
     },
     {
         "id": 7,
@@ -70,7 +70,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_sausage_mushroom.gltf"
     },
     {
         "id": 8,
@@ -82,7 +82,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_sausage_mushroom.gltf"
     },
     {
         "id": 9,
@@ -92,7 +92,7 @@
             "onion"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion.gltf"
     },
     {
         "id": 10,
@@ -102,7 +102,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_sausage.gltf"
     },
     {
         "id": 11,
@@ -112,7 +112,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_mushroom.gltf"
     },
     {
         "id": 12,
@@ -122,7 +122,7 @@
             ""
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick.gltf"
     },
     {
         "id": 13,
@@ -133,7 +133,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_sausage.gltf"
     },
     {
         "id": 14,
@@ -144,7 +144,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_mushroom.gltf"
     },
     {
         "id": 15,
@@ -155,7 +155,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_sausage_mushroom.gltf"
     },
     {
         "id": 16,
@@ -167,7 +167,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_sausage_mushroom.gltf"
     },
     {
         "id": 17,
@@ -177,7 +177,7 @@
             "onion"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion.gltf"
     },
     {
         "id": 18,
@@ -187,7 +187,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_sausage.gltf"
     },
     {
         "id": 19,
@@ -197,7 +197,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_mushroom.gltf"
     },
     {
         "id": 20,
@@ -207,7 +207,7 @@
             ""
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin.gltf"
     },
     {
         "id": 21,
@@ -218,7 +218,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_sausage.gltf"
     },
     {
         "id": 22,
@@ -229,7 +229,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_mushroom.gltf"
     },
     {
         "id": 23,
@@ -240,7 +240,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_sausage_mushroom.gltf"
     },
     {
         "id": 24,
@@ -252,7 +252,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_sausage_mushroom.gltf"
     },
     {
         "id": 25,
@@ -262,7 +262,7 @@
             "onion"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion.gltf"
     },
     {
         "id": 26,
@@ -272,7 +272,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_sausage.gltf"
     },
     {
         "id": 27,
@@ -282,7 +282,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_mushroom.gltf"
     },
     {
         "id": 28,
@@ -292,7 +292,7 @@
             ""
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick.gltf"
     },
     {
         "id": 29,
@@ -303,7 +303,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_sausage.gltf"
     },
     {
         "id": 30,
@@ -314,7 +314,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_mushroom.gltf"
     },
     {
         "id": 31,
@@ -325,7 +325,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_sausage_mushroom.gltf"
     },
     {
         "id": 32,
@@ -337,7 +337,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_sausage_mushroom.gltf"
     },
     {
         "id": 33,
@@ -347,7 +347,7 @@
             "onion"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion.gltf"
     },
     {
         "id": 34,
@@ -357,7 +357,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_sausage.gltf"
     },
     {
         "id": 35,
@@ -367,7 +367,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_mushroom.gltf"
     },
     {
         "id": 36,
@@ -377,7 +377,7 @@
             ""
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin.gltf"
     },
     {
         "id": 37,
@@ -388,7 +388,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_sausage.gltf"
     },
     {
         "id": 38,
@@ -399,7 +399,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_mushroom.gltf"
     },
     {
         "id": 39,
@@ -410,7 +410,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_sausage_mushroom.gltf"
     },
     {
         "id": 40,
@@ -422,7 +422,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thin_onion_sausage_mushroom.gltf"
     },
     {
         "id": 41,
@@ -432,7 +432,7 @@
             "onion"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion.gltf"
     },
     {
         "id": 42,
@@ -442,7 +442,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_sausage.gltf"
     },
     {
         "id": 43,
@@ -452,7 +452,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_mushroom.gltf"
     },
     {
         "id": 44,
@@ -462,7 +462,7 @@
             ""
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick.gltf"
     },
     {
         "id": 45,
@@ -473,7 +473,7 @@
             "sausage"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_sausage.gltf"
     },
     {
         "id": 46,
@@ -484,7 +484,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_mushroom.gltf"
     },
     {
         "id": 47,
@@ -495,7 +495,7 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_sausage_mushroom.gltf"
     },
     {
         "id": 48,
@@ -507,6 +507,6 @@
             "mushroom"
         ],
         "image_url": "",
-        "ar_url": ""
+        "ar_url": "./ar/thick_onion_sausage_mushroom.gltf"
     }
 ]
