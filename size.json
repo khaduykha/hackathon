@@ -1,14 +1,14 @@
 {
   "l": {
     "text": "Large",
-    "image": "https://static.phdvasia.com/development/menu/topping/desktop_detail_d84a1d3d-c1e2-4860-a7d7-48954bade079.png"
+    "image_url": "https://static.phdvasia.com/development/menu/topping/desktop_detail_d84a1d3d-c1e2-4860-a7d7-48954bade079.png"
   },
   "m": {
     "text": "medium",
-    "image": "https://static.phdvasia.com/development/menu/topping/desktop_detail_d84a1d3d-c1e2-4860-a7d7-48954bade079.png"
+    "image_url": "https://static.phdvasia.com/development/menu/topping/desktop_detail_d84a1d3d-c1e2-4860-a7d7-48954bade079.png"
   },
   "s": {
     "text": "small",
-    "image": "https://static.phdvasia.com/development/menu/topping/desktop_detail_d84a1d3d-c1e2-4860-a7d7-48954bade079.png"
+    "image_url": "https://static.phdvasia.com/development/menu/topping/desktop_detail_d84a1d3d-c1e2-4860-a7d7-48954bade079.png"
   }
 }

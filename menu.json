@@ -1,0 +1,194 @@
+[
+    {
+        "id": 1,
+        "size": "l",
+        "crust": "thin",
+        "topping": "onion",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 2,
+        "size": "l",
+        "crust": "thin",
+        "topping": "sausage",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 3,
+        "size": "l",
+        "crust": "thin",
+        "topping": "mushroom",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 4,
+        "size": "l",
+        "crust": "thin",
+        "topping": "",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 1,
+        "size": "l",
+        "crust": "thick",
+        "topping": "onion",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 2,
+        "size": "l",
+        "crust": "thick",
+        "topping": "sausage",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 3,
+        "size": "l",
+        "crust": "thick",
+        "topping": "mushroom",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 4,
+        "size": "l",
+        "crust": "thick",
+        "topping": "",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 1,
+        "size": "m",
+        "crust": "thin",
+        "topping": "onion",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 2,
+        "size": "m",
+        "crust": "thin",
+        "topping": "sausage",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 3,
+        "size": "m",
+        "crust": "thin",
+        "topping": "mushroom",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 4,
+        "size": "m",
+        "crust": "thin",
+        "topping": "",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 1,
+        "size": "m",
+        "crust": "thick",
+        "topping": "onion",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 2,
+        "size": "m",
+        "crust": "thick",
+        "topping": "sausage",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 3,
+        "size": "m",
+        "crust": "thick",
+        "topping": "mushroom",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 4,
+        "size": "m",
+        "crust": "thick",
+        "topping": "",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 1,
+        "size": "s",
+        "crust": "thin",
+        "topping": "onion",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 2,
+        "size": "s",
+        "crust": "thin",
+        "topping": "sausage",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 3,
+        "size": "s",
+        "crust": "thin",
+        "topping": "mushroom",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 4,
+        "size": "s",
+        "crust": "thin",
+        "topping": "",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 1,
+        "size": "s",
+        "crust": "thick",
+        "topping": "onion",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 2,
+        "size": "s",
+        "crust": "thick",
+        "topping": "sausage",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 3,
+        "size": "s",
+        "crust": "thick",
+        "topping": "mushroom",
+        "image_url": "",
+        "ar_url": ""
+    },
+    {
+        "id": 4,
+        "size": "s",
+        "crust": "thick",
+        "topping": "",
+        "image_url": "",
+        "ar_url": ""
+    }
+]
